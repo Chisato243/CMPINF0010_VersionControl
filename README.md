@@ -2,7 +2,7 @@
 Group members:
 Bairun Chen
 Madelyn Dayrit
-
+Vivian Le
 
 This is a simple Python program created for our lab. The program takes a user's name and age as input and then displays a message including the user's name and age.
 
